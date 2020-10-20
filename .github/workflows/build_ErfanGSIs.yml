@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/8.4.26/miui_HMNote2_8.4.26_1e34486419_5.0.zip
+  ROM_URL: https://bigota.d.miui.com/6.7.5/miui_HMNote2Global_6.7.5_8cb28b4100_5.0.zip
   ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
